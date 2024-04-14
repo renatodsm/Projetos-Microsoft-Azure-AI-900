@@ -7,7 +7,7 @@ Seguindo o roteiro que está no caminho https://microsoftlearning.github.io/msle
 __*Configurando um recurso Azure Machine Learning*__
 ---
 
-<p align="center"><img src="./assets/confrecurso.jpg" width="500"></p>
+<p align="center"><img src="./assets/confrecurso.jpg" width="700"></p>
  
 
  
@@ -15,7 +15,7 @@ __*Configurando um recurso Azure Machine Learning*__
  
 
 __*Depois que nosso workspace estiver pronto temos que entrar no ML studio para criar um "novo treinamento de ML automatizado".*__
-<p align="center"><img src="./assets/recursoset.jpg" width="500"></p>
+<p align="center"><img src="./assets/recursoset.jpg" width="700"></p>
 
 
  
@@ -24,27 +24,44 @@ __*Depois que nosso workspace estiver pronto temos que entrar no ML studio para 
  
 Carregando a base  informada para  para ser a base do do ativo para o treinamento
 Link da base:  https://aka.ms/bike-rentals  
-<p align="center"><img src="./assets/baseraw.jpg" width="500"></p>
+<p align="center"><img src="./assets/baseraw.jpg" width="700"></p>
 	
  
-__*Configure os parâmetros do JOB de treinamento: *__
-Tipo de tarefa; Regressão
+__*Configure os parâmetros do JOB de treinamento:*__
+
+Tipo de tarefa: Regressão
+
 Métrica primária: Erro de quadrado de média de raiz normalizado
+
 Explicar o melhor modeloDesabilitado
+
 Modelos permitidos: LightGBM,RandomForest
+
 Modelos bloqueados:TensorFlowDNN,TensorFlowLinearRegressor
+
 Número de validações cruzadas: --
+
 Aprendizado profundo: Desabilitado
+
 Critério de saída: Tempo de treinamento (horas)0.25
+
 Tipo de validação: Divisão de validação de treinamento
+
 Iteração simultânea máxima:3
+
+<p align="center"><img src="./assets/setjob.jpg" width="700"></p>
+<p align="center"><img src="./assets/stjob2.jpg" width="700"></p>
 
  
 
  
  
 __*Após enviar seu trabalho, em cerca de 15 minutos, estará pronto para execução.*__
-<p align="center"><img src="./assets/conftreina.jpg" width="500"></p>
+<p align="center"><img src="./assets/run.jpg" width="700"></p>
+
+__*Treinamento em execução*__
+
+<p align="center"><img src="./assets/run2.jpg" width="700"></p>
  
  
 
@@ -52,8 +69,13 @@ __*Após enviar seu trabalho, em cerca de 15 minutos, estará pronto para execu�
 __*Treinamento Concluido*__
  
 
+<p align="center"><img src="./assets/runfin.jpg" width="700"></p>
+
+
 __*Histórico de execução*__
+
 ---
+<p align="center"><img src="./assets/histrun.jpg" width="700"></p>
 
 
  __*Testando o modelo*__
