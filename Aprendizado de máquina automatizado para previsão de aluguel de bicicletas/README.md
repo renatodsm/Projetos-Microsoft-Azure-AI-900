@@ -7,7 +7,7 @@ Seguindo o roteiro que está no caminho https://microsoftlearning.github.io/msle
 __*Configurando um recurso Azure Machine Learning*__
 ---
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+<p align="center"><img src="./assets/confrecurso.jpg" width="500"></p>
  
 
  
@@ -15,6 +15,7 @@ __*Configurando um recurso Azure Machine Learning*__
  
 
 __*Depois que nosso workspace estiver pronto temos que entrar no ML studio para criar um "novo treinamento de ML automatizado".*__
+<p align="center"><img src="./assets/recursoset.jpg" width="500"></p>
 
 
  
@@ -23,6 +24,7 @@ __*Depois que nosso workspace estiver pronto temos que entrar no ML studio para 
  
 Carregando a base  informada para  para ser a base do do ativo para o treinamento
 Link da base:  https://aka.ms/bike-rentals  
+<p align="center"><img src="./assets/baseraw.jpg" width="500"></p>
 	
  
 __*Configure os parâmetros do JOB de treinamento: *__
@@ -42,6 +44,7 @@ Iteração simultânea máxima:3
  
  
 __*Após enviar seu trabalho, em cerca de 15 minutos, estará pronto para execução.*__
+<p align="center"><img src="./assets/conftreina.jpg" width="500"></p>
  
  
 
@@ -102,12 +105,18 @@ __*Validando a integridade do treinamento do melhor teste que foi neste caso o w
 __*Analisando algumas  Metricas *__
  
 
+<p align="center"><img src="./assets/valmetrics.jpg" width="700"></p>
+
 __*Previsto vs Realizado*__
+
+<p align="center"><img src="./assets/prevvsreal.jpg" width="700"></p>
 
 Este gráfico avalia a precisão e a confiabilidade de um modelo de aprendizado de máquina. Ele ajuda os usuários a identificar discrepâncias entre as previsões do modelo e os valores reais, permitindo ajustes e melhorias no modelo, se necessário.
  
 __*Residuals Histogram*__
 
+<p align="center"><img src="./assets/histogram.jpg" width="700"></p>
+ 
 Esse gráfico faz análise de um modelo de aprendizado de máquina para avaliar a qualidade do ajuste do modelo aos dados de treinamento. Ele fornece insights sobre como os erros do modelo estão distribuídos e se o modelo está capturando adequadamente a variabilidade nos dados.
 
 
