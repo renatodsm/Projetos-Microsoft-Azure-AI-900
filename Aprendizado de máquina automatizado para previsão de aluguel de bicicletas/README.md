@@ -1,11 +1,3 @@
-
-<p align="center"><img src="./DIO.png" width="500"></p>
-
-__*Criando um ecossitema Hadoop totalmente gerenciado com Google Cloud Platform*__
-
-O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contahem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
-
----
 # Aprendizado de máquina automatizado para previsão de aluguel de bicicletas
 
 Para trabalhar no machine learn é essencial que você possua um workspace e esta é a tarefa inicial, criar o seu workspace para assim poder criar o seu trabalho automatizado.
@@ -14,6 +6,8 @@ Seguindo o roteiro que está no caminho https://microsoftlearning.github.io/msle
 
 __*Configurando um recurso Azure Machine Learning*__
 ---
+
+<p align="center"><img src="./DIO.png" width="500"></p>
  
 
  
