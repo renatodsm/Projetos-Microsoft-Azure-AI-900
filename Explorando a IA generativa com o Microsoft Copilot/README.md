@@ -8,11 +8,11 @@ A IA generativa é uma subcategoria da inteligência artificial que treina model
 
 Antes de começar a usar a IA generativa ou o Azure AI, você precisará configurar o ambiente de desenvolvimento no Azure. Isso pode incluir a instalação de bibliotecas de IA necessárias, como Azure Machine Learning, Azure Cognitive Services, etc.
 
-## Usando o Azure AI
+## Usando a IA generativa
 
-O Azure AI pode ajudar a gerar código, responder perguntas e muito mais. Para começar a usar o Azure AI, você pode simplesmente começar a digitar em seu editor de código e o Azure AI oferecerá sugestões com base no contexto do seu código.
+A IA generativa pode ajudar a gerar código, responder perguntas e muito mais. Para começar a usar o Azure AI, você pode simplesmente começar a digitar em seu editor de código e o Azure AI oferecerá sugestões com base no contexto do seu código.
 
-## Reconhecimento de Texto em Imagens com Azure Computer Vision
+## Reconhecimento de Texto em Imagens
 
 O reconhecimento de texto em imagens é um recurso poderoso que pode ser alcançado através de técnicas de IA. O Azure Computer Vision é uma ferramenta disponível para isso. Aqui estão os passos básicos:
 
