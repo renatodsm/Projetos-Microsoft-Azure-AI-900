@@ -1,30 +1,26 @@
-# Introdução à IA Generativa
+# Introdução à IA Generativa com Azure
 
-A IA generativa é uma subcategoria da inteligência artificial que treina modelos para gerar conteúdo. Isso pode incluir texto, imagens, música e muito mais. O Copilot da OpenAI é um exemplo de um modelo de IA generativa que pode gerar código, responder perguntas e muito mais.
+A IA generativa é uma subcategoria da inteligência artificial que treina modelos para gerar conteúdo. Isso pode incluir texto, imagens, música e muito mais. O Azure AI é um exemplo de um modelo de IA generativa que pode gerar código, responder perguntas e muito mais.
 
-## Configurando o Ambiente
+## Configurando o Ambiente Azure
 
-Antes de começar a usar a IA generativa ou o Copilot, você precisará configurar o ambiente de desenvolvimento. Isso pode incluir a instalação de bibliotecas de IA necessárias, como TensorFlow, PyTorch, etc.
+Antes de começar a usar a IA generativa ou o Azure AI, você precisará configurar o ambiente de desenvolvimento no Azure. Isso pode incluir a instalação de bibliotecas de IA necessárias, como Azure Machine Learning, Azure Cognitive Services, etc.
 
-## Usando o Copilot
+## Usando o Azure AI
 
-O Copilot da OpenAI pode ajudar a gerar código, responder perguntas e muito mais. Para começar a usar o Copilot, você pode simplesmente começar a digitar em seu editor de código e o Copilot oferecerá sugestões com base no contexto do seu código.
+O Azure AI pode ajudar a gerar código, responder perguntas e muito mais. Para começar a usar o Azure AI, você pode simplesmente começar a digitar em seu editor de código e o Azure AI oferecerá sugestões com base no contexto do seu código.
 
-## Reconhecimento de Texto em Imagens
+## Reconhecimento de Texto em Imagens com Azure Computer Vision
 
-O reconhecimento de texto em imagens é um recurso poderoso que pode ser alcançado através de técnicas de IA. Existem várias bibliotecas disponíveis para isso, como Tesseract e OpenCV. Aqui estão os passos básicos:
+O reconhecimento de texto em imagens é um recurso poderoso que pode ser alcançado através de técnicas de IA. O Azure Computer Vision é uma ferramenta disponível para isso. Aqui estão os passos básicos:
 
-1. **Importação da Biblioteca**: Primeiro, importe a biblioteca necessária para o reconhecimento de texto em imagens. Por exemplo, `from pytesseract import image_to_string`.
+1. **Importação da Biblioteca**: Primeiro, importe a biblioteca necessária para o reconhecimento de texto em imagens. Por exemplo, `from azure.cognitiveservices.vision.computervision import ComputerVisionClient`.
 
-2. **Carregamento da Imagem**: Carregue a imagem da qual você deseja extrair o texto. Você pode usar bibliotecas como PIL ou OpenCV para isso.
+2. **Carregamento da Imagem**: Carregue a imagem da qual você deseja extrair o texto.
 
 3. **Pré-processamento da Imagem**: Isso pode incluir a conversão da imagem para escala de cinza, aplicação de limiar, etc., para melhorar a precisão do reconhecimento de texto.
 
-4. **Reconhecimento de Texto**: Finalmente, aplique a função de reconhecimento de texto na imagem pré-processada. Por exemplo, `text = image_to_string(image)`.
-
-## Explorando Possibilidades
-
-Com a IA generativa, as possibilidades são quase infinitas. Você pode gerar novos conteúdos, automatizar tarefas, melhorar a eficiência do código e muito mais. Explore diferentes bibliotecas e ferramentas para descobrir o que você pode criar!
+4. **Reconhecimento de Texto**: Finalmente, aplique a função de reconhecimento de texto na imagem pré-processada. Por exemplo, `text = client.recognize_printed_text_in_stream(image)`.
 
 ## Conclusão
 
