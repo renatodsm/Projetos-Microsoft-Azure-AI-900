@@ -4,7 +4,13 @@
 
 ---
 
+
 Fonte:https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+
+## Configurando o Ambiente Azure
+
+Antes de começar a usar a IA generativa ou o Azure AI, você precisará configurar o ambiente de desenvolvimento no Azure. Isso pode incluir a instalação de bibliotecas de IA necessárias, como Azure Machine Learning, Azure Cognitive Services, etc.
+
 Criar um recurso 
 Em outra guia do navegador, abra o Azure AI Speech Studio , entrando com sua conta da Microsoft.
 https://speech.microsoft.com/
@@ -105,7 +111,10 @@ Selecione Frase 1 para mostrar a análise de sentimento dessa frase.
 
 Há um sentimento geral seguido por pontuações para positivo, neutro e negativo. Cada categoria recebe uma pontuação de 0 a 1, indicando a probabilidade do texto ser de um sentimento específico.
 
+
 Selecione a frase 1 novamente para fechar.
+
+---
 
 Agora cole a seguinte revisão:
 
@@ -114,7 +123,9 @@ The Royal Hotel, London, UK
 3/2/2018
 Clean rooms, good service, great location near Buckingham Palace and Westminster Abbey, and so on. We thoroughly enjoyed our stay. The courtyard is very peaceful and we went to a restaurant which is part of the same group and is Indian ( West coast so plenty of fish) with a Michelin Star. We had the taster menu which was fabulous. The rooms were very well appointed with a kitchen, lounge, bedroom and enormous bathroom. Thoroughly recommended.
 
- Selecione Executar . Revise o resultado e o sentimento e o nível de confiança.
+---
+
+Selecione Executar . Revise o resultado e o sentimento e o nível de confiança.
 
 Selecione Limpar caixa de texto novamente e copie e cole a seguinte revisão:
 
