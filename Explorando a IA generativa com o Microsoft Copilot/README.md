@@ -1,4 +1,6 @@
-# Introdução à IA Generativa com Azure
+# Explorando a IA generativa com o Microsoft Copilot
+
+---
 
 A IA generativa é uma subcategoria da inteligência artificial que treina modelos para gerar conteúdo. Isso pode incluir texto, imagens, música e muito mais. O Azure AI é um exemplo de um modelo de IA generativa que pode gerar código, responder perguntas e muito mais.
 
