@@ -1,10 +1,7 @@
-Criar um recurso
 
-![alt text](image.png)
+#Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-Selecionar AI + Machine Learning
-
-![alt text](image-1.png)
+---
 
 Criar um Serviço Cognotivo no Azure:
 
