@@ -59,9 +59,9 @@ Tipo de recurso : Idioma
 Nome do recurso : selecione o recurso de serviço de idioma que você acabou de criar
 Em seguida, selecione Concluído .
 
-![alt text](image-17.png)
 
-<p align="center"><img src="./assets/image (01).png" width="700"></p>
+
+<p align="center"><img src="./assets/image (2).png" width="700"></p>
 
 Analise avaliações no Language Studio
 Num navegador web, navegue até Language Studio em https://language.cognitive.azure.com .
@@ -81,23 +81,22 @@ This is an old hotel (has been around since 1950's) and the room furnishings are
 
  Marque a caixa para confirmar que a demonstração incorrerá em uso e poderá gerar custos e selecione Executar .
 
-![alt text](image-19.png)
+<p align="center"><img src="./assets/image (3).png" width="700"></p>
 
-![alt text](image-20.png)
+<p align="center"><img src="./assets/image (4).png" width="700"></p>
 
-![alt text](image-21.png)
+<p align="center"><img src="./assets/image (5).png" width="700"></p>
 
-![alt text](image-22.png)
+<p align="center"><img src="./assets/image (6).png" width="700"></p>
 
-![alt text](image-23.png)
+<p align="center"><img src="./assets/image (7).png" width="700"></p>
 
-![alt text](image-24.png)
+<p align="center"><img src="./assets/image (8).png" width="700"></p>
 
-![alt text](image-25.png)
+<p align="center"><img src="./assets/image (9).png" width="700"></p>
 
 
-
-![alt text](image-27.png)
+<p align="center"><img src="./assets/image (10).png" width="700"></p>
 
 
 
@@ -124,13 +123,13 @@ Muito barulhento e os quartos são pequenos The Lombard Hotel, São Francisco, E
 Selecione Executar e analise o sentimento juntamente com o nível de confiança. Dê uma olhada no texto e compare-o com a análise de sentimento que o serviço retornou.
 
 
-![alt text](image-30.png)
+<p align="center"><img src="./assets/image (11).png" width="700"></p>
 
-![alt text](image-31.png)
+<p align="center"><img src="./assets/image (12).png" width="700"></p>
 
-![alt text](image-32.png)
+<p align="center"><img src="./assets/image (13).png" width="700"></p>
 
-![alt text](image-33.png)
+<p align="center"><img src="./assets/image (14).png" width="700"></p>
 
 
 ---
