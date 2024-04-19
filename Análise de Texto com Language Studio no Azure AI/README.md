@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/confrecurso.jpg" width="700"></p>
+
 
 <h3> Análise de Texto com Language Studio no Azure AI </h3>
 
@@ -61,7 +61,7 @@ Em seguida, selecione Concluído .
 
 ![alt text](image-17.png)
 
-
+<p align="center"><img src="./assets/image (01).png" width="700"></p>
 
 Analise avaliações no Language Studio
 Num navegador web, navegue até Language Studio em https://language.cognitive.azure.com .
