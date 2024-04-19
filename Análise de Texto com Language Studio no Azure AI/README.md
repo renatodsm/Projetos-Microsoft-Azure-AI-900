@@ -145,7 +145,7 @@ Selecione Executar e analise o sentimento juntamente com o nível de confiança.
 
 ---
 
-No exercício, você usou o Language Studio pra criar ou usar um recurso de idioma já existente. Depois de ativar o recurso nas Configurações, você testou o serviço de mineração de sentimento e opinião 
+
 
 
 
