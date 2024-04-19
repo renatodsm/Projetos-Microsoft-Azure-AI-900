@@ -15,7 +15,7 @@ Clicar em view all resources
 
 Colocar o recurso como default:
 
-![alt text](image-12.png)
+
 
 Ir em Home > Face > Detect Faces in an image:
 
@@ -31,7 +31,7 @@ Depois ir em Optical Character Recognition > Extract Text from images
 
 ![alt text](image-17.png)
 
-![alt text](image-18.png)
+
 
 ![alt text](image-19.png)
 
