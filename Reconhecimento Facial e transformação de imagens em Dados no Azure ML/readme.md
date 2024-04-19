@@ -7,7 +7,7 @@ Criar um Serviço Cognotivo no Azure:
 
 ![alt text](image-9.png)
 
-![alt text](image-10.png)
+
 
 Acessar o portal do Vision Studio: https://portal.vision.cognitive.azure.com/
 
@@ -43,9 +43,9 @@ Depois ir em Image Analysis > Add captions to images
 
 ![alt text](image-21.png)
 
-![alt text](image-22.png)
+
 
 ![alt text](image-23.png)
 
-![alt text](image-24.png)
+
 
