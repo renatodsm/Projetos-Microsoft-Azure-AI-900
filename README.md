@@ -1,6 +1,6 @@
 # Projetos Microsoft Azure AI
 
----
+--- 
 
 A Azure AI é demais! Ela tem um monte de projetos legais, como análise de texto, OCR, visão computacional e aprendizado de máquina automatizado.
 
