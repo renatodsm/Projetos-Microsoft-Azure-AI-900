@@ -1,11 +1,9 @@
+# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-#Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
----
+Criar um Serviço Cognitivo no Azure:
 
-Criar um Serviço Cognotivo no Azure:
 
-![alt text](image-9.png)
 
 
 
